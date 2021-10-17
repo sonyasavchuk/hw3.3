@@ -1,0 +1,13 @@
+D:\учеба\прога\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.exe
+D:\учеба\прога\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.deps.json
+D:\учеба\прога\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.runtimeconfig.json
+D:\учеба\прога\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.runtimeconfig.dev.json
+D:\учеба\прога\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.dll
+D:\учеба\прога\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.pdb
+D:\учеба\прога\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.csprojAssemblyReference.cache
+D:\учеба\прога\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.AssemblyInfoInputs.cache
+D:\учеба\прога\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.AssemblyInfo.cs
+D:\учеба\прога\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.csproj.CoreCompileInputs.cache
+D:\учеба\прога\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.dll
+D:\учеба\прога\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.pdb
+D:\учеба\прога\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.genruntimeconfig.cache
